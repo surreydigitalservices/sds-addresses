@@ -5,11 +5,19 @@ description:
 keywords: 
 ---
 
-<p class="lead">Surrey Digital Services have set up an address lookup API using <a href="https://www.ordnancesurvey.co.uk/business-and-government/products/addressbase-premium.html">OS AddressBase Premium</a> and is available for use by <abbr title="Public Sector Mapping Agreement">PSMA</abbr> signatories.</p>
+<p class="lead">SDS Addresses API Decomission</p>
 
-## Sign up
+## Update 2024-08-01
 
-API tokens can be granted to qualifying organisations via the <a href="https://docs.google.com/forms/d/1J1gtgUgMgPaB-gSEcZQtPnefQb5ePVoqycZAHHuLRpo/viewform">token request form.</a> Use of this data is subject to <a href="https://www.ordnancesurvey.co.uk/business-and-government/public-sector/mapping-agreements/end-user-licence.html">terms and conditions under the Public Sector Mapping Agreement</a>
+For the past eight years, the Surrey Digital Services (SDS) Address API has been an invaluable resource for our customers, delivering accurate and reliable address data. However, due to the introduction of the Ordnance Survey Data Hub services in recent years and the need to address financial pressures, we regret to inform you that the Surrey Digital Services Address API will be discontinued as of September 1, 2024.
+
+To minimize any operational impact, you will need to take appropriate action before this date, as it is non-negotiable. Please note that we will not be responsible for any disruptions to your services after September 1, 2024.
+
+Since we are not aware of how or where you use the SDS Address API, we are unable to offer specific advice or assistance on transitioning. However, please note that the Ordnance Survey Data Hub provides comprehensive address data and mapping services to PSGA members, exceeding the coverage provided by the SDS Address API.
+
+Best regards,
+
+On behalf of Surrey Digital Services
 
 For more information on accessing the service please see the <a href="{{ site.baseurl }}/documentation.html">docs</a>.
 
