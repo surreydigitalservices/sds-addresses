@@ -19,6 +19,6 @@ Best regards,
 
 On behalf of Surrey Digital Services
 
-For more information on accessing the service please see the <a href="{{ site.baseurl }}/documentation.html">docs</a>.
+
 
 <p class="text-muted" style="margin-top: 4em;">The Surrey Digital Services address API was forked from the <a href="https://github.com/alphagov/locate-api">Government Digital Service Locate API</a> and was configured by <a href="http://www.folklabs.com/">Folk Labs</a>.</p>
